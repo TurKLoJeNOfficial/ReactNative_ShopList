@@ -2,6 +2,31 @@
 
 Bu proje, modern React Native geliştirme pratiklerini ve en iyi uygulamaları kullanarak geliştirilmiş, kullanıcı dostu bir alışveriş listesi uygulamasıdır.
 
+# 📷 Screenshots
+
+
+
+<p>
+  <img src="https://github.com/user-attachments/assets/c5d2e527-d146-4a54-92d7-44483c0d725c"/>
+  <img src="https://github.com/user-attachments/assets/a35d5e29-82de-45a6-840a-4fab350f2f8c"/>
+  <img src="https://github.com/user-attachments/assets/3f08c896-4445-4fd1-bd95-b086cccf342d"/>
+  <img src="https://github.com/user-attachments/assets/84b489a6-a744-40af-bed4-02a088ac628c"/>
+  <img src="https://github.com/user-attachments/assets/58cbdfb0-9043-4be5-8cde-0cc81795e0f2"/>
+  <img src="https://github.com/user-attachments/assets/10ed3a87-9844-4bb9-bea4-5ca3646ee348"/>
+  <img src="https://github.com/user-attachments/assets/a16cf403-6837-4ee8-806d-5430a7af5f5f"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29b6b906-964b-4281-9357-970eadb47aa3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8194d6ec-d860-45df-816d-ba40cc9c0ac2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8194d6ec-d860-45df-816d-ba40cc9c0ac2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8194d6ec-d860-45df-816d-ba40cc9c0ac2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8194d6ec-d860-45df-816d-ba40cc9c0ac2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8194d6ec-d860-45df-816d-ba40cc9c0ac2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8194d6ec-d860-45df-816d-ba40cc9c0ac2" width="200"/>
+</p>
+
+
 
 # 🚀 Proje Özellikleri
 

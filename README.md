@@ -7,7 +7,7 @@ Bu proje, modern React Native geliştirme pratiklerini ve en iyi uygulamaları k
 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/c5d2e527-d146-4a54-92d7-44483c0d725c"  width="200"/>
+  <img src="https://github.com/user-attachments/assets/c5d2e527-d146-4a54-92d7-44483c0d725c"  width="200"/> Anasayfa
   <img src="https://github.com/user-attachments/assets/a35d5e29-82de-45a6-840a-4fab350f2f8c" width="200"/>
   <img src="https://github.com/user-attachments/assets/3f08c896-4445-4fd1-bd95-b086cccf342d" width="200"/>
   <img src="https://github.com/user-attachments/assets/84b489a6-a744-40af-bed4-02a088ac628c" width="200"/>
